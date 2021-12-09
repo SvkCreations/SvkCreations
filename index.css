@@ -1,0 +1,16 @@
+.main{
+    font-family: 'Prompt', sans-serif;
+}
+.main h2{
+    font-size: 60px;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.side-bar{
+    width: 20%;
+    background-color: #fbde6b;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
